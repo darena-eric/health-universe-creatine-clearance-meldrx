@@ -119,3 +119,5 @@ def render():
     if st.button("Calculate"):
         result = cockcroft_gault(weight, serum_creatinine, age, gender)
         st.write(f"Creatinine Clearance: {result:.2f} ml/min")
+
+render()

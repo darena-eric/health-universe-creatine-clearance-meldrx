@@ -1,2 +1,2 @@
 streamlit
-meldrx_fhir_client==0.0.3
+meldrx-fhir-client==0.0.3
